@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\pscha\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\pscha\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Skillfull World Fixing.1114052400.00" t="ExcludeRecursive" />
+    <e p="D:\Universitaet\Semester_9\Git\Skillfull_World_Fixing\Skillfull World Fixing" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="atom.cs" t="Include" />
+        <e p="bug.cs" t="Include" />
+        <e p="bug2.cs" t="Include" />
+        <e p="bugPoint.cs" t="Include" />
+        <e p="bumper.cs" t="Include" />
+        <e p="dropZone.cs" t="Include" />
+        <e p="fillingAnimiation.cs" t="Include" />
+        <e p="GameController.cs" t="Include" />
+        <e p="grassGenerator.cs" t="Include" />
+        <e p="hole.cs" t="Include" />
+        <e p="levelScript.cs" t="Include" />
+        <e p="MarkerScript.cs" t="Include" />
+        <e p="pinnBall.cs" t="Include" />
+        <e p="sceneChanger.cs" t="Include" />
+        <e p="slotMachineScript.cs" t="Include" />
+        <e p="world_tilting.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Skillfull World Fixing.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
